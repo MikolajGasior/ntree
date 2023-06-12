@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gasiordev/go-tui"
+	"github.com/MikolajGasior/go-mod-tui"
 	"io/ioutil"
 	"os"
 	"path/filepath"

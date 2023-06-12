@@ -1,0 +1,4 @@
+github.com/MikolajGasior/go-mod-cli v1.0.0 h1:YNP1TnQgKGFw9KF1Zgf+2PLPr445kzjxHPl1rZgIRak=
+github.com/MikolajGasior/go-mod-cli v1.0.0/go.mod h1:M4KyBYxD8cWYLuB62FTs/Ng4pkyqcuOjnQlAYWidyic=
+github.com/MikolajGasior/go-mod-tui v0.0.0-20230612185648-9ec78f990095 h1:Eo2dseD6/vldiJbfyrN9fWGVRgo8rAa9eEWK33JLF78=
+github.com/MikolajGasior/go-mod-tui v0.0.0-20230612185648-9ec78f990095/go.mod h1:wjH3oRVhsQJ+e7M8t+izbtteaZry+jAwdbCJGBgUiGQ=

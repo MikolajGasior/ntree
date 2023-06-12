@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/gasiordev/go-cli"
-	"github.com/gasiordev/go-tui"
+	"github.com/MikolajGasior/go-mod-cli"
+	"github.com/MikolajGasior/go-mod-tui"
 	"io/ioutil"
 	"log"
 	"net"

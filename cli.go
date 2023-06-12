@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/gasiordev/go-cli"
+	"github.com/MikolajGasior/go-mod-cli"
 	"log"
 	"os"
 )

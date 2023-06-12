@@ -8,7 +8,7 @@ expands the subdirectories that are your current working directory.
 Check the screenshot for the following command:
 
 ```
-ntree start -r /Users/miko -w /Users/miko/Repos/gasiordev/ntree
+ntree start -r /Users/miko -w /Users/miko/Repos/MikolajGasior/ntree
 ```
 
 ![ntree screenshot](ntree.png)
@@ -31,7 +31,7 @@ cd() {
 
 So, as you can see, working directory can be changed while the program is 
 running. This is done with `ntree send`, eg. 
-`ntree send WORKDIR /Users/miko/Repos/gasiordev/`.
+`ntree send WORKDIR /Users/miko/Repos/MikolajGasior/`.
 
 On the screenshot next to filenames, you can spot numbers. Number on the left,
 like `(3)...`, indicates that there are 3 items before which are not shown,

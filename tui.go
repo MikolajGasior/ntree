@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/gasiordev/go-tui"
+	"github.com/MikolajGasior/go-mod-tui"
 )
 
 // getOnTUIPaneDraw returns fn that is called when main pane is getting redrawn
